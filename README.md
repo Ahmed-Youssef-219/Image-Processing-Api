@@ -7,6 +7,7 @@ resizing images and save it a folder of the project folders with a custom size
     ---> npm install <dev_dependencies> --save-dev 
 
 ===>to run the project correctly follow the following instructures :-
+
     --->npm run start       ---> to compile typescript and get build folder and start server
     ---> npm run prettier   ---> to format the code
     ---> npm run lint       ---> to ensure that is no errors in the code
